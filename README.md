@@ -1,3 +1,3 @@
-# histogram-guided semantics-aware colorization
+# histogram-guided semantic-aware colorization
 
-Code for the paper "histogram-guided semantics-aware colorization" will be released soon.
+Code for the paper "histogram-guided semantic-aware colorization" will be released soon.
