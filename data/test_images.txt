@@ -1,0 +1,2 @@
+./data/test_images/1/gray_0001.jpg ./data/test_images/1/ref_0001.jpg
+./data/test_images/2/gray_0002.jpg ./data/test_images/2/ref_0002.jpg
